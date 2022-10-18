@@ -1,0 +1,15 @@
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\ДЗ Задача 25.csproj.AssemblyReference.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\ДЗ Задача 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\ДЗ Задача 25.AssemblyInfoInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\ДЗ Задача 25.AssemblyInfo.cs
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\ДЗ Задача 25.csproj.CoreCompileInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\bin\Debug\net7.0\ДЗ Задача 25.exe
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\bin\Debug\net7.0\ДЗ Задача 25.deps.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\bin\Debug\net7.0\ДЗ Задача 25.runtimeconfig.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\bin\Debug\net7.0\ДЗ Задача 25.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\bin\Debug\net7.0\ДЗ Задача 25.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\ДЗ Задача 25.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\refint\ДЗ Задача 25.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\ДЗ Задача 25.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\ДЗ Задача 25.genruntimeconfig.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 25\obj\Debug\net7.0\ref\ДЗ Задача 25.dll
